@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Datla Suji
 
-<!--
-**datlasuji/datlasuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- I am a **BCA student** who is passionate about **coding and technology**
+- Currently learning **Python, Web Development, and Data Structures**
+- I enjoy building **projects**, exploring **new technologies**, and improving my problem-solving skills
+- My goal is to become a **professional software developer** and work in a **product-based company**
+
+---
+
+## 🛠️ Skills & Technologies
+- **Programming Languages:** Python, C, Java (Basics)
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook
+- **Databases:** MySQL (Basics)
+
+---
+
+## 📂 Projects
+
+*(More projects coming soon…)*
+
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Backend Development
+- Machine Learning Basics
+- Open Source Contribution
+
+---
+
+## 📫 Connect With Me
+- GitHub: **@datlasuji**
+- 💼 LinkedIn: www.linkedin.com/in/datla-suji-43a082311
+---
+
+⭐ *“Learning every day, building step by step.”*
+
