@@ -21,7 +21,7 @@
 
 ## 📂 Projects
 
-*(More projects coming soon…)*
+to do list (chrome extension but not pulished)
 
 ---
 
