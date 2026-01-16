@@ -21,8 +21,8 @@
 
 ## 📂 Projects
 
-to do list (chrome extension but not pulished)
-codecrafter shell (using phython)
+- **to do list (chrome extension but not pulished)
+- **codecrafter shell (using phython)
 
 ---
 
