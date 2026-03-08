@@ -6,15 +6,15 @@
 
 ## 🚀 About Me
 - I am a **BCA student** who is passionate about **coding and technology**
-- Currently learning **Python, Web Development, and Data Structures**
+- Currently learning **C++, Web Development, and Data Structures**
 - I enjoy building **projects**, exploring **new technologies**, and improving my problem-solving skills
 
 ---
 
 ## 🛠️ Skills & Technologies
-- **Programming Languages:** Python, C, Java (Basics)
+- **Programming Languages: C++ (Basics)
 - **Web Technologies:** HTML, CSS, JavaScript
-- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook
+- **Tools & Platforms:** Git, GitHub, VS Code
 - **Databases:** MySQL (Basics)
 
 ---
@@ -28,9 +28,7 @@
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms
-- Backend Development
-- Machine Learning Basics
-- Open Source Contribution
+- Web Development(Mern stack)
 
 ---
 
