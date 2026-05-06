@@ -1,7 +1,7 @@
 # Hi, I'm Suji 👋
 
  BCA Student  
- Learning DSA and MERN Stack Development  
+ Learning MERN Stack Development And Doing DSA 
  Building real-world projects  
  Exploring AI and modern technologies  
 
